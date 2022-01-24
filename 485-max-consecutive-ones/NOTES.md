@@ -1,0 +1,1 @@
+Dont use Math.max as it makes the code slow.
